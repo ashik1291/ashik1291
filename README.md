@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior Software Engineer</strong> · Java · Spring Boot · Kafka · Microservices · Fintech<br/>
-  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🌍 Open to relocation — Netherlands · Germany · Sweden · Finland
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🌍 Open to relocation
 </p>
 
 <p align="center">
