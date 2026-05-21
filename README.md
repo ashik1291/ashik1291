@@ -16,9 +16,9 @@
 
 ## About me
 
-I'm a backend-focused Senior Software Engineer with 4+ years of experience building scalable, high-traffic enterprise systems in **fintech**, **ISP billing**, and **compliance** domains.
+I'm a backend-focused Senior Software Engineer with 4+ years of experience building scalable, high-traffic enterprise systems in **fintech**, **ISP billing solution**, and **compliance** domains.
 
-Currently at **Brain Station 23 PLC** (Dhaka), where I lead architecture design, mentor junior engineers, drive client requirement analysis, and deliver end-to-end features across distributed systems serving 100,000+ users.
+Currently at **Brain Station 23 PLC** (Dhaka), where I guide architecture design, mentor junior engineers, drive client requirement analysis, and deliver end-to-end features across distributed systems serving 100,000+ users.
 
 I'm actively seeking a **Senior Backend / Java Engineer** role in the EU or Nordic region with relocation sponsorship.
 
@@ -56,7 +56,7 @@ I'm actively seeking a **Senior Backend / Java Engineer** role in the EU or Nord
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **ISP Core Billing Solution** | Spring Boot, Spring Batch, Kafka, Postgres, Redis | Billing platform for 10,000+ subscribers — finance engine, commission structures for 50+ partners, automated invoicing |
+| **ISP Core Billing Solution** | Spring Boot, Spring Batch, Kafka, Postgres, Redis | Billing platform for 4,00,000+ subscribers — finance engine, commission structures for 2500+ partners, customized notification engine, automated invoicing |
 | **Digital Wallet** | Spring Boot, MSSQL, Redis, Keycloak | Instant fund transfers and payments for 50,000+ active users; 35% API response time improvement |
 | **eKYC System** | Spring Boot, OAuth2, Flask | ML-backed identity verification processing 1,000+ daily verifications |
 | **Payment Aggregator** | Spring WebFlux, MSSQL | Reactive real-time transaction processing across 10+ payment channels |
