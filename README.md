@@ -23,6 +23,12 @@ Currently at **Brain Station 23 PLC** (Dhaka), where I guide architecture design
 I'm actively seeking a **Senior Backend / Java Engineer** role in the EU or Nordic region with relocation sponsorship.
 
 ---
+> 🔒 Most of my day-to-day work involves enterprise systems in fintech, 
+> ISP billing, and compliance domains — these are confidential and 
+> cannot be shared publicly. The repos here are personal explorations 
+> and concept demos built outside of work.
+
+---
 
 ## 🛠 Tech stack
 
