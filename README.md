@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior Software Engineer</strong> · Java · Spring Boot · Kafka · Microservices · Fintech<br/>
-  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🌍 Open to relocation
+  📍 Dhaka, Bangladesh &nbsp;|&nbsp; 🌍 Open to Remote &nbsp;|&nbsp; ✈️ Open to Relocation
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ I'm a backend-focused Senior Software Engineer with 4+ years of experience build
 
 Currently at **Brain Station 23 PLC** (Dhaka), where I guide architecture design, mentor junior engineers, drive client requirement analysis, and deliver end-to-end features across distributed systems serving 100,000+ users.
 
-I'm actively seeking a **Senior Backend / Java Engineer** role in the EU or Nordic region with relocation sponsorship.
+I'm actively seeking a **Senior Backend / Java Engineer** role — open to **fully remote** positions worldwide or **on-site/hybrid roles in the EU or Nordic region** with relocation sponsorship.
 
 ---
 > 🔒 Most of my day-to-day work involves enterprise systems in fintech, 
@@ -99,10 +99,11 @@ I'm actively seeking a **Senior Backend / Java Engineer** role in the EU or Nord
 
 ---
 
-## 🌍 Relocation
+## 🌍 Remote & Relocation
 
-I am actively looking for Senior Backend / Java Engineer opportunities in **EU and Nordic countries** with visa sponsorship and relocation support for myself and my spouse.
+I'm open to **fully remote** Senior Backend / Java Engineer roles from anywhere, as well as **on-site or hybrid** opportunities in EU and Nordic countries with visa sponsorship and relocation support for myself and my spouse.
 
+- ✅ Fully remote ready — reliable setup, async-friendly, UTC+6
 - ✅ Degree apostilled and verified
 - ✅ Fluent in English
 - ✅ Available for EU Blue Card / Skilled Worker Visa sponsorship
